@@ -1,6 +1,6 @@
-# Blopa Focus - Full-Stack Application
+# Blopa Focus - Virtual Creature Motivation Web App
 
-A modern full-stack application with React + TypeScript frontend and FastAPI + MongoDB backend.
+A gamified motivation app where users complete personalized micro-tasks to help a virtual creature evolve, with task completion verified through AI-based image analysis.
 
 ![Portfolio preview](assets/blopa_01.png)
 ![Portfolio preview](assets/blopa_06.png)
