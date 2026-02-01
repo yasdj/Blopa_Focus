@@ -1,6 +1,9 @@
-# Pablo - Full-Stack Application
+# Blopa Focus - Full-Stack Application
 
 A modern full-stack application with React + TypeScript frontend and FastAPI + MongoDB backend.
+
+![Portfolio preview](assets/blopa_01.png)
+![Portfolio preview](assets/blopa_06.png)
 
 ## 🏗️ Architecture
 
